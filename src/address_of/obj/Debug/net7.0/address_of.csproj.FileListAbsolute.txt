@@ -1,0 +1,15 @@
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.csproj.AssemblyReference.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.AssemblyInfoInputs.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.AssemblyInfo.cs
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.csproj.CoreCompileInputs.cache
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\address_of.exe
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\address_of.deps.json
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\address_of.runtimeconfig.json
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\address_of.dll
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\address_of.pdb
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.dll
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\refint\address_of.dll
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.pdb
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\address_of.genruntimeconfig.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\ref\address_of.dll
