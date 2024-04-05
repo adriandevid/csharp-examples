@@ -1,0 +1,15 @@
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\examples.exe
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\examples.deps.json
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\examples.runtimeconfig.json
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\examples.dll
+C:\sistemas\csharp-studies\src\address_of\bin\Debug\net7.0\examples.pdb
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.csproj.AssemblyReference.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.AssemblyInfoInputs.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.AssemblyInfo.cs
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.csproj.CoreCompileInputs.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.dll
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\refint\examples.dll
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.pdb
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\examples.genruntimeconfig.cache
+C:\sistemas\csharp-studies\src\address_of\obj\Debug\net7.0\ref\examples.dll
