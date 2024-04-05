@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QzPCXmNyh5euSB5weNfp9PyhRixerSNIH1rWwz+AipPhFbnh6qdcxVkZOjdcqw9GeM740JTCRDN7zUtJOS7HfA==",
+  "dgSpecHash": "yJtIpxhQRdOVuRTqa7rdb/BWt5yycWG/gLMAlUlSyTnwFO8745+HFGYF3BQk1qAinxs/VZouMmcGa85yic6aAw==",
   "success": true,
   "projectFilePath": "C:\\sistemas\\csharp-studies\\src\\address_of\\examples.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

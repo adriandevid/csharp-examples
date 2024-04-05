@@ -2,6 +2,7 @@
 using Examples.BitOperation;
 using Examples.OperatorAccessElement;
 using Examples.OperatorAccessPointer;
+using System.IO.Ports;
 
 Console.WriteLine("---------------- Address Example Manipulation ---------------");
 // ref: https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/pointer-related-operators#pointer-indirection-operator-
@@ -23,3 +24,12 @@ Console.WriteLine("---------------- Operator of complement bit to bit ----------
 //ref: https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators
 BitOperations.ExecuteExample();
 Console.WriteLine("-------------------------------------------------------------");
+
+
+
+
+// Provides list of available serial ports
+// string[] portNames = SerialPort.GetPortNames();
+// foreach(string port in portNames) {
+//     Console.WriteLine(port);
+// }
